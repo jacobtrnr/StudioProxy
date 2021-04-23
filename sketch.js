@@ -8,7 +8,7 @@ function preload() {
 }
 
 function setup() {
-  colorMode(HSL,100)
+  colorMode(HSB,100)
   createCanvas(400, 400);
 }
 
