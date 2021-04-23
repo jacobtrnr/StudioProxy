@@ -196,6 +196,6 @@ function draw() {
 
  //noLoop()
 
-clear();
+
 
 }
