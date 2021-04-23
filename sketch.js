@@ -14,7 +14,7 @@ function setup() {
 
 function draw() {
   frameRate(2)
-  //background(60,26,97);
+  background(240);
 
   let x = random(30, 50)
   let y = random(20, 30)
