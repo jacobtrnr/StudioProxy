@@ -8,13 +8,12 @@ function preload() {
 }
 
 function setup() {
-  //colorMode(HSB,100)
   createCanvas(400, 400);
 }
 
 function draw() {
   frameRate(2)
-  background(240);
+  background(245);
 
   let x = random(30, 50)
   let y = random(20, 30)
@@ -192,9 +191,6 @@ function draw() {
   textAlign(CENTER, CENTER)
   text('y', 0, 0);
   pop()
-
-
- //noLoop()
 
 
 
