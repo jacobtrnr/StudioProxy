@@ -8,13 +8,13 @@ function preload() {
 }
 
 function setup() {
-  colorMode(HSB,100)
+  //colorMode(HSB,100)
   createCanvas(400, 400);
 }
 
 function draw() {
   frameRate(2)
-  background(60,26,97);
+  //background(60,26,97);
 
   let x = random(30, 50)
   let y = random(20, 30)
@@ -196,6 +196,6 @@ function draw() {
 
  //noLoop()
 
-
+clear();
 
 }
