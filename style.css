@@ -5,8 +5,9 @@ html, body {
   margin-left: 25%;
 }
 canvas {
-  display: block;
-  position: relative;
-  width: 50%;
-  height: 50%;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
 }
